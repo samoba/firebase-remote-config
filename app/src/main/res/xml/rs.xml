@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>text_str</key>
+        <value>Welcome to the app</value>
+    </entry>
+    <entry>
+        <key>text_size</key>
+        <value>14</value>
+    </entry>
+    <entry>
+        <key>text_color</key>
+        <value>#FF0000</value>
+    </entry>
+</defaultsMap>
